@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Rana Mohib Usman`
-- **CCID:** `rdnamohi`
+- **CCID:** `ranamohi`
 
 ## References and Resources
 N/A
